@@ -1,4 +1,4 @@
-const colors = ["green", "hsl(30, 100%, 50%)", "red", "rgba(133,122,200)", "#f15025", "hsl(225, 100%, 50%)"];
+const colors = ["green", "hsl(30, 100%, 50%)", "red", "rgba(133,122,200)", "#F15025", "hsl(225, 100%, 50%)"];
 const clickMeBtn = document.querySelector(".btn");
 
 clickMeBtn.addEventListener("click", () => {
