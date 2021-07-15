@@ -10,10 +10,10 @@ It uses both the Simple color names and the Hexadecimal color combination as wel
 ### Lessons Learnt
 - How to utilize:
 -- Array and its methods and properties
--- the _document.getElementById()_
--- the _document.querySelector()_
--- _addEventListener()_
--- the _document.body.style.backgroundColor_
+-- the document.getElementById()
+-- the document.querySelector()
+-- addEventListener()
+-- the document.body.style.backgroundColor
 -- Math.floor()
 -- Math.random()
 
