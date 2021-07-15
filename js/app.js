@@ -6,7 +6,7 @@ clickMeBtn.addEventListener("click", () => {
 
     document.querySelector(".color").innerHTML = colors[randomIndex];
     document.body.style.backgroundColor = colors[randomIndex];
-    document.querySelector(".simple").style.color = colors[randomIndex];
+    document.getElementById("simple").style.color = colors[randomIndex];
 });
 
 let getColorIndex = () => {
