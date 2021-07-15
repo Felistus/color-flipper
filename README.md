@@ -9,13 +9,13 @@ It uses both the Simple color names and the Hexadecimal color combination as wel
 
 ### Lessons Learnt
 - How to utilize:
--- Array and its methods and properties
--- the document.getElementById()
--- the document.querySelector()
--- addEventListener()
--- the document.body.style.backgroundColor
--- Math.floor()
--- Math.random()
+    - Array and its methods and properties
+    - the document.getElementById()
+    - the document.querySelector()
+    - addEventListener()
+    - the document.body.style.backgroundColor
+    - Math.floor()
+    - Math.random()
 
 ### Link to hosted page
 [Color Flipper](https://felistus.github.io/color-flipper/)
